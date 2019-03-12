@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image: url("../media/hero_2.jpg");
+    color: white;
+
+}
+
+.jumbotron h1 {
+    padding-top: 25px;
+}
+
+.homePageAdvert h1, p {
+    text-align: center !important;
+}
+
