@@ -9,6 +9,10 @@
 }
 
 .homePageAdvert h1, p {
-    text-align: center !important;
+    text-align: center;
+}
+
+.container div.articles article {
+    float: left;
 }
 
