@@ -16,4 +16,9 @@
     float: left;
 }
 
-
+footer div.container {
+    padding-top: 0.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 0.5%;
+}
