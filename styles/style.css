@@ -40,3 +40,7 @@ footer article a.footerLinks:hover {
     text-decoration: underline;
     transition: 0.5s;
 }
+
+p.aboutP {
+    text-align: left;
+}
