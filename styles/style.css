@@ -1,3 +1,7 @@
+body {
+    position: relative;
+}
+
 .jumbotron {
     background-image: url("../media/hero_2.jpg");
     color: white;
@@ -41,6 +45,6 @@ footer article a.footerLinks:hover {
     transition: 0.5s;
 }
 
-p.aboutP {
+p.leftP {
     text-align: left;
 }
