@@ -1,5 +1,18 @@
+@keyframes apparition {
+    0% {opacity: 0%;}
+    25% {opacity: 0.25;}
+    50% {opacity: 0.50;}
+    75% {opacity: 0.75;}
+    100% {opacity: 1;}
+}
+
 body {
+    opacity: 0;
     position: relative;
+    animation-name: apparition;
+    animation-fill-mode: forwards;
+    animation-duration: 0.2s;
+    animation-timing-function: ease-out;
 }
 
 .jumbotron {
@@ -47,4 +60,8 @@ footer article a.footerLinks:hover {
 
 p.leftP {
     text-align: left;
+}
+
+h1.centerH1 {
+    text-align: center;
 }
