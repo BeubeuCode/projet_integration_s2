@@ -65,3 +65,7 @@ p.leftP {
 h1.centerH1 {
     text-align: center;
 }
+
+.card {
+    margin-top: 10px;
+}
