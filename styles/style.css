@@ -33,6 +33,7 @@
     }
 }
 
+
 body {
     opacity: 0;
     position: relative;
@@ -108,4 +109,8 @@ h1.centerH1 {
     height: 5%;
     animation-iteration-count: infinite;
     animation-play-state: running;
+}
+
+footer {
+    width: 100%;
 }
