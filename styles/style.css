@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
 @keyframes apparition {
     0% {opacity: 0%;}
     25% {opacity: 0.25;}
@@ -41,6 +43,10 @@ body {
     animation-fill-mode: forwards;
     animation-duration: 0.2s;
     animation-timing-function: ease-out;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
 }
 
 .jumbotron {
