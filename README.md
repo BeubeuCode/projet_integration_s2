@@ -10,6 +10,10 @@
 
 There is no licence whatsoever, so feel free to do whatever you want with my code I suppose
 
+### This assignment is to be submitted on the 6th of July, 2019
+You can find the details [here](https://codepen.io/AdrienSkoove/pen/wOqGoj) (in french)
+
+
 #### contact: 
 mail : benoit.arnlt@gmail.com
 
